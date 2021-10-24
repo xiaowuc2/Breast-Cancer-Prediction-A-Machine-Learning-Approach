@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://cognopy.vercel.app">
-    <img src="https://github.com/instillai/machine-learning-course/blob/master/_img/intro.png" alt="Logo" width="220" length="220" >
-  </a>
-</p>
-
 <p><pre align="center">
 <strong>Breast Cancer Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
 
