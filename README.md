@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction-A-Machine-Learning-Approach
+This proposed project &amp; paper presents a comparison of six machine learning algorithms: XGBoost Classifier, Random Forest, KNN Classifier, Logistic Regression, SVM Classification, Decision Tree on the Wisconsin Diagnostic Breast Cancer dataset which is extracted from a digitized image of an MRI. Our research led to 94.96% accuracy with Logistic Regression.
