@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cognopy.vercel.app">
-    <img src="https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/blob/main/Images/sd.gif" alt="Logo">
+    <img src="https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/blob/main/Images/sd.gif" alt="Logo" width="220" length="220">
   </a>
 </p>
 
