@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://cognopy.vercel.app">
-    <img src="https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/blob/main/Images/sd.gif" alt="Logo" width="220" length="220">
-  </a>
-</p>
-
 <p><pre align="center">
 <strong>Breast Cancer Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
 
@@ -18,7 +12,7 @@ Breast cancer is the most common cancer in women world-wide. In 2020, there were
 Some variables are taken of all data from dataset to see the distribution.
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/plot.png" alt="Distribution">
+    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/plot.png" alt="Distribution" width="700" length="700">
   </a>
 
 #### `Correlation Heatmap`
@@ -26,7 +20,7 @@ Plotting correlation heatmap to see corellation among the features in the datase
  
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/heatmap.png" alt="Heatmap">
+    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/heatmap.png" alt="Heatmap" width="600" length="600">
   </a>
 
 #### `Comparison : Classification Algorithms`
