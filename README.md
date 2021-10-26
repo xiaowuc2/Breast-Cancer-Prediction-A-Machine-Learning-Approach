@@ -13,7 +13,7 @@ Breast cancer is the most common cancer in women world-wide. In 2020, there were
 Some variables are taken of all data from dataset to see the distribution.
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/plot.png" alt="Distribution" width="700" length="700">
+    <img src="https://raw.githubusercontent.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/main/Images/plot.png" alt="Distribution">
   </a>
 
 #### `Correlation Heatmap`
