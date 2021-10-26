@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://cognopy.vercel.app">
+    <img src="https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach/blob/main/Images/sd.gif" alt="Logo">
+  </a>
+</p>
+
 <p><pre align="center">
 <strong>Breast Cancer Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
 
