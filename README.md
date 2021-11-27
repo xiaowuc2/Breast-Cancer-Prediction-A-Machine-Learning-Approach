@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Breast Cancer Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
+<strong>Breast Cancer Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​​</a></pre></p></strong>
 
 ### Abstract
 
